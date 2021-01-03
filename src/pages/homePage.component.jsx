@@ -3,8 +3,9 @@ import "./homepage.styles.scss";
 import DirectoryMenu from '../components/directory/directory.component';
 
 const HomePage = () => (
+  
   <div className="homepage">
-    <DirectoryMenu />
+    <DirectoryMenu/>
   </div>
 );
 
